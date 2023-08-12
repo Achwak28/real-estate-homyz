@@ -1,0 +1,8 @@
+.comp-container{
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.comp-container img{
+    width: 9rem;
+}  
